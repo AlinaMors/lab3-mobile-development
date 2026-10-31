@@ -1,0 +1,32 @@
+services:
+  permissions:
+    image: busybox:1.37
+    user: '0:0'
+    command: ['sh', '-c', 'chown -R 10001:10001 /data /logs']
+    volumes:
+      - rustfs-data:/data
+      - rustfs-logs:/logs
+  rustfs:
+    image: rustfs/rustfs:1.0.4
+    depends_on:
+      permissions:
+        condition: service_completed_successfully
+    ports:
+      - '127.0.0.1:9000:9000'
+      - '127.0.0.1:9001:9001'
+    environment:
+      RUSTFS_VOLUMES: '/data/disk{1...4}'
+      RUSTFS_ADDRESS: ':9000'
+      RUSTFS_CONSOLE_ADDRESS: ':9001'
+      RUSTFS_CONSOLE_ENABLE: 'true'
+      RUSTFS_ACCESS_KEY: 'rustfsadmin'
+      RUSTFS_SECRET_KEY: 'rustfsadmin'
+      RUSTFS_UNSAFE_BYPASS_DISK_CHECK: 'true'
+      RUSTFS_STORAGE_CLASS_STANDARD: 'EC:2'
+      RUSTFS_OBS_LOG_DIRECTORY: '/logs'
+    volumes:
+      - rustfs-data:/data
+      - rustfs-logs:/logs
+volumes:
+  rustfs-data:
+  rustfs-logs:

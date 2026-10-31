@@ -1,0 +1,18 @@
+{
+  "source": "s3://hh-lake/it_vacancies_2024.csv",
+  "rows": 229388,
+  "selected": 3713,
+  "with_skills": 2743,
+  "max_skills": 28,
+  "retries": 1,
+  "unique": [
+    1007,
+    11950,
+    59871
+  ],
+  "occurrences": [
+    14904,
+    46696,
+    123452
+  ]
+}

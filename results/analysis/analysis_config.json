@@ -1,0 +1,11 @@
+{
+  "regions": [
+    "Москва",
+    "Санкт-Петербург",
+    "Новосибирск"
+  ],
+  "min_salary_n": 10,
+  "salary": "RUR, gross=false; midpoint or available bound",
+  "pair_base": "most frequent skill (all selected vacancies); lexical tie break",
+  "triple_base": "most frequent contained pair (all selected vacancies); lexical tie break"
+}

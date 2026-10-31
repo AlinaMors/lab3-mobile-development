@@ -1,0 +1,10 @@
+{
+  "platform": "Windows-10-10.0.19045-SP0",
+  "python": "3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]",
+  "logical_cpus": 6,
+  "source": "s3://hh-lake/it_vacancies_2024.csv",
+  "sha256": "303db922b541e4440906f5a7e8be32fb55e8808f950ffddb8c272f1548212a65",
+  "local_diagnostic_only": false,
+  "measurement": "wall time within wrapper incl imports+read+compute+local output; memory metric recorded in *.metrics.json; RustFS excluded",
+  "commands": "see run.py; 2 workers / 2 DuckDB threads; chunk=2000 CSV records"
+}

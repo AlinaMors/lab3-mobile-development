@@ -1,0 +1,246 @@
+[
+  {
+    "key": "it_vacancies_2024.csv",
+    "bytes": 847619384
+  },
+  {
+    "key": "lab3/analysis/analysis_config.json",
+    "bytes": 376
+  },
+  {
+    "key": "lab3/analysis/pair_effects.csv",
+    "bytes": 20364
+  },
+  {
+    "key": "lab3/analysis/region_stacks_1.csv",
+    "bytes": 50435
+  },
+  {
+    "key": "lab3/analysis/region_stacks_2.csv",
+    "bytes": 554641
+  },
+  {
+    "key": "lab3/analysis/region_stacks_3.csv",
+    "bytes": 2762943
+  },
+  {
+    "key": "lab3/analysis/regions.csv",
+    "bytes": 254
+  },
+  {
+    "key": "lab3/analysis/salary_coverage.csv",
+    "bytes": 160
+  },
+  {
+    "key": "lab3/analysis/selected_vacancies.csv",
+    "bytes": 517658
+  },
+  {
+    "key": "lab3/analysis/skill_count_distribution.csv",
+    "bytes": 190
+  },
+  {
+    "key": "lab3/analysis/triple_effects.csv",
+    "bytes": 23168
+  },
+  {
+    "key": "lab3/bucket_listing.json",
+    "bytes": 4010
+  },
+  {
+    "key": "lab3/commands_output.txt",
+    "bytes": 1544
+  },
+  {
+    "key": "lab3/duckdb_1.log",
+    "bytes": 214
+  },
+  {
+    "key": "lab3/duckdb_1.log.metrics.json",
+    "bytes": 105
+  },
+  {
+    "key": "lab3/duckdb_1/counts_1.csv",
+    "bytes": 28508
+  },
+  {
+    "key": "lab3/duckdb_1/counts_2.csv",
+    "bytes": 478523
+  },
+  {
+    "key": "lab3/duckdb_1/counts_3.csv",
+    "bytes": 3210347
+  },
+  {
+    "key": "lab3/duckdb_1/summary.json",
+    "bytes": 279
+  },
+  {
+    "key": "lab3/duckdb_2.log",
+    "bytes": 214
+  },
+  {
+    "key": "lab3/duckdb_2.log.metrics.json",
+    "bytes": 106
+  },
+  {
+    "key": "lab3/duckdb_2/counts_1.csv",
+    "bytes": 28508
+  },
+  {
+    "key": "lab3/duckdb_2/counts_2.csv",
+    "bytes": 478523
+  },
+  {
+    "key": "lab3/duckdb_2/counts_3.csv",
+    "bytes": 3210347
+  },
+  {
+    "key": "lab3/duckdb_2/summary.json",
+    "bytes": 279
+  },
+  {
+    "key": "lab3/duckdb_3.log",
+    "bytes": 214
+  },
+  {
+    "key": "lab3/duckdb_3.log.metrics.json",
+    "bytes": 105
+  },
+  {
+    "key": "lab3/duckdb_3/counts_1.csv",
+    "bytes": 28508
+  },
+  {
+    "key": "lab3/duckdb_3/counts_2.csv",
+    "bytes": 478523
+  },
+  {
+    "key": "lab3/duckdb_3/counts_3.csv",
+    "bytes": 3210347
+  },
+  {
+    "key": "lab3/duckdb_3/summary.json",
+    "bytes": 279
+  },
+  {
+    "key": "lab3/environment.json",
+    "bytes": 560
+  },
+  {
+    "key": "lab3/failure.log",
+    "bytes": 208
+  },
+  {
+    "key": "lab3/failure.log.metrics.json",
+    "bytes": 106
+  },
+  {
+    "key": "lab3/failure/counts_1.csv",
+    "bytes": 28508
+  },
+  {
+    "key": "lab3/failure/counts_2.csv",
+    "bytes": 478523
+  },
+  {
+    "key": "lab3/failure/counts_3.csv",
+    "bytes": 3210347
+  },
+  {
+    "key": "lab3/failure/summary.json",
+    "bytes": 273
+  },
+  {
+    "key": "lab3/mapreduce_1.log",
+    "bytes": 208
+  },
+  {
+    "key": "lab3/mapreduce_1.log.metrics.json",
+    "bytes": 105
+  },
+  {
+    "key": "lab3/mapreduce_1/counts_1.csv",
+    "bytes": 28508
+  },
+  {
+    "key": "lab3/mapreduce_1/counts_2.csv",
+    "bytes": 478523
+  },
+  {
+    "key": "lab3/mapreduce_1/counts_3.csv",
+    "bytes": 3210347
+  },
+  {
+    "key": "lab3/mapreduce_1/summary.json",
+    "bytes": 273
+  },
+  {
+    "key": "lab3/mapreduce_2.log",
+    "bytes": 208
+  },
+  {
+    "key": "lab3/mapreduce_2.log.metrics.json",
+    "bytes": 106
+  },
+  {
+    "key": "lab3/mapreduce_2/counts_1.csv",
+    "bytes": 28508
+  },
+  {
+    "key": "lab3/mapreduce_2/counts_2.csv",
+    "bytes": 478523
+  },
+  {
+    "key": "lab3/mapreduce_2/counts_3.csv",
+    "bytes": 3210347
+  },
+  {
+    "key": "lab3/mapreduce_2/summary.json",
+    "bytes": 273
+  },
+  {
+    "key": "lab3/mapreduce_3.log",
+    "bytes": 208
+  },
+  {
+    "key": "lab3/mapreduce_3.log.metrics.json",
+    "bytes": 104
+  },
+  {
+    "key": "lab3/mapreduce_3/counts_1.csv",
+    "bytes": 28508
+  },
+  {
+    "key": "lab3/mapreduce_3/counts_2.csv",
+    "bytes": 478523
+  },
+  {
+    "key": "lab3/mapreduce_3/counts_3.csv",
+    "bytes": 3210347
+  },
+  {
+    "key": "lab3/mapreduce_3/summary.json",
+    "bytes": 273
+  },
+  {
+    "key": "lab3/object.json",
+    "bytes": 196
+  },
+  {
+    "key": "lab3/profile.csv",
+    "bytes": 296
+  },
+  {
+    "key": "lab3/rustfs_server.log",
+    "bytes": 6287
+  },
+  {
+    "key": "lab3/rustfs_version.txt",
+    "bytes": 105
+  },
+  {
+    "key": "lab3/verification.json",
+    "bytes": 982
+  }
+]

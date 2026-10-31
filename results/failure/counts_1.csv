@@ -1,0 +1,1008 @@
+﻿skills,count
+"["".net""]",1
+"["".net core""]",3
+"["".net framework""]",8
+"[""1c: управление нашей фирмой""]",2
+"[""1с""]",1
+"[""1с программирование""]",4
+"[""1с-битрикс""]",1
+"[""1с: предприятие""]",2
+"[""1с: предприятие 8""]",2
+"[""1с: унф""]",2
+"[""3d max""]",3
+"[""a/b тесты""]",1
+"[""activity-ktx""]",1
+"[""adapty""]",2
+"[""adb""]",1
+"[""adjust""]",4
+"[""adobe photoshop""]",10
+"[""afnetworking""]",7
+"[""agile""]",21
+"[""agile project management""]",6
+"[""agtech""]",2
+"[""aidl""]",5
+"[""ajax""]",1
+"[""alamofire""]",23
+"[""alps""]",1
+"[""amplitude""]",4
+"[""analytics""]",2
+"[""andengine""]",1
+"[""android""]",1163
+"[""android 7.0+""]",1
+"[""android api""]",2
+"[""android framework""]",1
+"[""android hal""]",3
+"[""android jetpack""]",10
+"[""android jetpack suite""]",1
+"[""android material""]",5
+"[""android material design guidlines""]",1
+"[""android ndk""]",3
+"[""android os""]",3
+"[""android product flavors""]",3
+"[""android qt""]",2
+"[""android sdk""]",605
+"[""android studio""]",75
+"[""android ui""]",5
+"[""android ui/ux""]",1
+"[""android view""]",1
+"[""android xml""]",1
+"[""androidx""]",3
+"[""androidx room""]",1
+"[""angular""]",6
+"[""angularjs""]",12
+"[""animation""]",1
+"[""animation, animator, transition""]",1
+"[""ansi c++""]",1
+"[""ansible""]",1
+"[""aosp""]",17
+"[""apache cordova""]",2
+"[""apache kafka""]",3
+"[""apache maven""]",4
+"[""api""]",56
+"[""api key""]",1
+"[""api для web приложений""]",4
+"[""api: graphql""]",1
+"[""apns""]",1
+"[""apollo""]",1
+"[""app frameworks""]",1
+"[""app store""]",1
+"[""appclips""]",1
+"[""apphud""]",2
+"[""appium""]",3
+"[""apple appstore""]",1
+"[""apple arkit""]",2
+"[""apple store""]",1
+"[""apple uikit""]",1
+"[""appmetrica""]",3
+"[""appodeal""]",1
+"[""appsflyer""]",8
+"[""appstore""]",7
+"[""appstore и testflight""]",5
+"[""appstorespy""]",2
+"[""ar""]",4
+"[""arc""]",2
+"[""architecture""]",1
+"[""architecture components""]",4
+"[""architecture framework""]",2
+"[""arkit""]",3
+"[""aso""]",4
+"[""asomobile""]",2
+"[""asp.net""]",3
+"[""async""]",3
+"[""async await""]",1
+"[""async/await""]",3
+"[""atlassian confluence""]",14
+"[""atlassian jira""]",58
+"[""auto_route""]",1
+"[""autolayout""]",10
+"[""automotive""]",2
+"[""avfoundation""]",3
+"[""avid media composer""]",2
+"[""await""]",3
+"[""aws""]",2
+"[""axios""]",2
+"[""axios/fetch""]",1
+"[""azure""]",2
+"[""babel""]",1
+"[""backbone""]",1
+"[""backend""]",3
+"[""bash""]",10
+"[""bdui""]",2
+"[""beta-тестирования""]",1
+"[""betting""]",1
+"[""bitbucket""]",2
+"[""bitrise""]",1
+"[""bitrix""]",2
+"[""ble""]",5
+"[""bloc""]",39
+"[""bloc / provider""]",2
+"[""blockchain""]",6
+"[""bootstrap""]",4
+"[""bpmn""]",1
+"[""bug tracking systems""]",2
+"[""buildcontext""]",1
+"[""buildowner""]",1
+"[""c""]",1
+"[""c#""]",32
+"[""c# .net core""]",1
+"[""c++""]",57
+"[""c++/c""]",3
+"[""c++17""]",1
+"[""c/c++""]",22
+"[""camera""]",1
+"[""camera2""]",4
+"[""camera3""]",3
+"[""camerax""]",1
+"[""canva""]",1
+"[""canvas""]",2
+"[""cardview""]",1
+"[""carthage""]",1
+"[""cassandra""]",1
+"[""casual games""]",1
+"[""centrifugo""]",1
+"[""cfnetwork""]",1
+"[""cg""]",1
+"[""charts""]",2
+"[""ci""]",7
+"[""ci cd""]",1
+"[""ci/cd""]",83
+"[""cicerone""]",4
+"[""cicirone""]",1
+"[""clean""]",2
+"[""clean architecture""]",59
+"[""clean code""]",2
+"[""cleanswift""]",5
+"[""cli""]",3
+"[""cmake""]",6
+"[""cocoa""]",6
+"[""cocoa pods""]",1
+"[""cocoa touch""]",15
+"[""cocoapods""]",54
+"[""cocoapods quick""]",1
+"[""code review""]",8
+"[""codegen""]",1
+"[""codepush""]",1
+"[""coil""]",1
+"[""combain""]",1
+"[""combine""]",44
+"[""compose""]",43
+"[""compose multiplatform""]",11
+"[""concurrency""]",2
+"[""conductor""]",2
+"[""configurationchange""]",1
+"[""confluence""]",2
+"[""coordinator""]",1
+"[""cordova""]",5
+"[""core animation""]",2
+"[""core data""]",20
+"[""core text""]",2
+"[""coreanimation""]",3
+"[""coredata""]",29
+"[""coredats""]",1
+"[""coregraphics""]",2
+"[""coreimage""]",1
+"[""coreldraw""]",1
+"[""coroutine""]",11
+"[""coroutines""]",106
+"[""coroutines + flow""]",1
+"[""cpa""]",1
+"[""crypto""]",1
+"[""css""]",40
+"[""css3""]",13
+"[""cubejs""]",1
+"[""custom view""]",2
+"[""customview""]",1
+"[""cv""]",3
+"[""dager""]",2
+"[""dagger""]",48
+"[""dagger 2""]",82
+"[""dagger hilt""]",1
+"[""dagger2""]",34
+"[""dark""]",1
+"[""dart""]",298
+"[""dart core""]",2
+"[""dart/flutter""]",1
+"[""data science""]",1
+"[""databases""]",1
+"[""databinding""]",3
+"[""ddd""]",1
+"[""dependency injection""]",1
+"[""design patterns""]",24
+"[""desktop""]",3
+"[""developer""]",3
+"[""development""]",5
+"[""devops""]",2
+"[""di""]",6
+"[""digital visual fortran""]",1
+"[""dio""]",11
+"[""dio/freezed""]",1
+"[""divkit""]",5
+"[""django framework""]",3
+"[""dji mobile sdk/mavsdk""]",1
+"[""docker""]",31
+"[""docker-compose""]",2
+"[""dotween""]",1
+"[""drift""]",2
+"[""driver""]",3
+"[""dry""]",12
+"[""e2e""]",3
+"[""echo""]",1
+"[""ef""]",1
+"[""ef core""]",1
+"[""electron""]",1
+"[""electronjs""]",3
+"[""entity framework core""]",1
+"[""es5""]",3
+"[""es6""]",7
+"[""es6+""]",2
+"[""eslint""]",1
+"[""espresso""]",3
+"[""event loop""]",1
+"[""exoplayer""]",4
+"[""expo""]",1
+"[""fastapi""]",4
+"[""fastlane""]",12
+"[""fiddler""]",2
+"[""figma""]",46
+"[""fintech""]",1
+"[""firebase""]",80
+"[""flame""]",2
+"[""flatter""]",2
+"[""flexbox""]",2
+"[""flow""]",10
+"[""flutter""]",441
+"[""flutter async""]",1
+"[""flutter dart""]",2
+"[""flutter sdk""]",4
+"[""flutter_bloc""]",1
+"[""flutterflow""]",1
+"[""fluttersdk""]",2
+"[""foster""]",1
+"[""foundation""]",14
+"[""fragment api""]",1
+"[""fragmentmanager""]",1
+"[""freezed""]",4
+"[""frontend""]",7
+"[""futter""]",1
+"[""fvm""]",2
+"[""gambling industry""]",2
+"[""game programming""]",8
+"[""gamedev""]",2
+"[""games""]",1
+"[""garbage collector""]",1
+"[""gcd""]",23
+"[""gcd (qos)""]",1
+"[""gcp (good clinical practice)""]",1
+"[""gdb""]",1
+"[""gerrit""]",1
+"[""getx""]",2
+"[""gin""]",1
+"[""git""]",817
+"[""git / bitbucket), commit / push / merge /pullrequest / branch""]",1
+"[""git flow""]",2
+"[""git-flow.""]",5
+"[""github""]",14
+"[""gitlab""]",31
+"[""gitlab ci""]",1
+"[""gitlab ci/cd""]",5
+"[""glide""]",5
+"[""gms + hms""]",1
+"[""go""]",5
+"[""go-router""]",1
+"[""go_router""]",1
+"[""golang""]",6
+"[""google analytics""]",3
+"[""google api""]",2
+"[""google cloud""]",3
+"[""google cloud / aws cloud""]",1
+"[""google cloud platform""]",1
+"[""google maps api""]",8
+"[""google material design""]",1
+"[""google navigation""]",1
+"[""google play""]",7
+"[""google play console""]",3
+"[""google play market""]",3
+"[""gorouter""]",1
+"[""gradle""]",71
+"[""grand central dispatch""]",2
+"[""graphgl""]",1
+"[""graphql""]",26
+"[""graphql_codegen""]",1
+"[""grasp""]",2
+"[""grpc""]",7
+"[""gsm""]",1
+"[""gson""]",4
+"[""gtest""]",2
+"[""hibernate orm""]",3
+"[""hidl""]",3
+"[""hig""]",2
+"[""hilt""]",28
+"[""hlsl""]",2
+"[""hms""]",1
+"[""hoc""]",1
+"[""hokey app""]",1
+"[""html""]",60
+"[""html-верстка""]",4
+"[""html5""]",21
+"[""http""]",49
+"[""http(s)""]",1
+"[""https""]",3
+"[""https и json""]",5
+"[""huawei""]",2
+"[""human interface guidelines""]",2
+"[""hyper-casual games""]",1
+"[""i2c""]",2
+"[""igaming""]",1
+"[""imageloader""]",1
+"[""inheritedwidget""]",1
+"[""injector""]",1
+"[""interface board""]",1
+"[""ioc""]",1
+"[""ionic""]",3
+"[""ionic framework""]",1
+"[""ios""]",890
+"[""ios 13 human interface guidelines.""]",5
+"[""ios 15+""]",2
+"[""ios coordinator pattern""]",1
+"[""ios developer""]",1
+"[""ios sdk""]",55
+"[""ios sdk 15""]",1
+"[""iot""]",2
+"[""ipad""]",2
+"[""ipados""]",1
+"[""iphone""]",4
+"[""it""]",24
+"[""java""]",595
+"[""java 11""]",1
+"[""java core""]",5
+"[""java ee""]",1
+"[""java script""]",11
+"[""java se""]",26
+"[""javascript""]",152
+"[""javascript node.js""]",2
+"[""javascript/typescript""]",1
+"[""jdbc""]",1
+"[""jenkins""]",7
+"[""jest""]",1
+"[""jetpack""]",7
+"[""jetpack compose""]",88
+"[""jetpack navigation""]",3
+"[""jira""]",17
+"[""jni""]",5
+"[""jquery""]",5
+"[""js""]",10
+"[""js, ts""]",1
+"[""json""]",48
+"[""json annotation""]",1
+"[""json api""]",66
+"[""jssip""]",2
+"[""jsx""]",1
+"[""jtbd""]",1
+"[""junior""]",1
+"[""junit""]",10
+"[""junit. субд oracle. java server pages. spring. hibernate""]",1
+"[""jvm""]",1
+"[""jwt""]",3
+"[""kafka""]",6
+"[""kanban""]",2
+"[""kaspresso""]",3
+"[""keitaro""]",2
+"[""keychain""]",1
+"[""kingfisher""]",1
+"[""kiss""]",9
+"[""kmm""]",6
+"[""kmp""]",9
+"[""koa""]",1
+"[""kodein""]",1
+"[""koin""]",17
+"[""koltin flow""]",1
+"[""kotlin""]",1066
+"[""kotlin android sdk, android jetpack coroutines dagger2 adapter delegates room mvvm, cle""]",2
+"[""kotlin coroutine""]",9
+"[""kotlin coroutines""]",33
+"[""kotlin dsl""]",2
+"[""kotlin flow""]",1
+"[""kotlin multiplatform""]",20
+"[""kotlin multiplatform mobile""]",3
+"[""kotlin native""]",1
+"[""kotlin с jetpack compose""]",1
+"[""kotlin, mvvm + mvi, single activity, viewbinding, stateflow, coroutine, cicerone, dagger, retrofit""]",1
+"[""kotlin/java""]",1
+"[""ktor""]",7
+"[""kubernetes""]",7
+"[""laos""]",1
+"[""laravel""]",3
+"[""launcher""]",3
+"[""leadership skills""]",1
+"[""less""]",2
+"[""lightship""]",1
+"[""linux""]",40
+"[""liquibase""]",1
+"[""livedata""]",6
+"[""lldb""]",1
+"[""llm""]",1
+"[""lottie""]",4
+"[""lte""]",1
+"[""m2m""]",1
+"[""mac os""]",18
+"[""macos""]",6
+"[""make""]",1
+"[""manual test""]",1
+"[""mapbox""]",1
+"[""material design""]",11
+"[""maui""]",5
+"[""mercurial""]",2
+"[""metalkit""]",1
+"[""meteorjs""]",2
+"[""middle""]",1
+"[""middle+""]",1
+"[""mixpanel""]",1
+"[""mlflow""]",1
+"[""mmvm""]",1
+"[""mobile""]",6
+"[""mobile applibation development""]",1
+"[""mobile application development""]",1
+"[""mobile developer""]",2
+"[""mobile developing""]",1
+"[""mobile game""]",1
+"[""mobx""]",28
+"[""mockk""]",1
+"[""moment""]",1
+"[""mongodb""]",9
+"[""moxy""]",5
+"[""moxy mvp""]",1
+"[""moya""]",7
+"[""mpv""]",4
+"[""mrc""]",1
+"[""ms sql""]",10
+"[""ms sql server""]",1
+"[""ms visual studio""]",1
+"[""mui""]",2
+"[""multi-module architecture""]",1
+"[""multimodule""]",1
+"[""multimodule (многомодульный проект)""]",1
+"[""multithread programming""]",2
+"[""multithreading""]",3
+"[""mutex""]",2
+"[""mv-паттерны""]",1
+"[""mvc""]",60
+"[""mvi""]",42
+"[""mvi,""]",1
+"[""mvi/mvvm""]",1
+"[""mvicore""]",1
+"[""mvp""]",91
+"[""mvpc""]",3
+"[""mvvm""]",332
+"[""mvvm+c""]",1
+"[""mvvm/mvi""]",1
+"[""mvvmс""]",2
+"[""mvvw""]",1
+"[""mwwm""]",1
+"[""mysql""]",35
+"[""navigation""]",1
+"[""navigation architecture component""]",1
+"[""navigation component""]",2
+"[""ndk""]",2
+"[""nest js""]",2
+"[""nest.js""]",1
+"[""net core""]",1
+"[""next js""]",1
+"[""next.js""]",6
+"[""nextjs""]",1
+"[""nimble""]",3
+"[""nlp""]",2
+"[""no-sql databases (mongodb)""]",1
+"[""node.js""]",38
+"[""nodejs""]",2
+"[""nosql""]",9
+"[""npm""]",1
+"[""nsoperation""]",1
+"[""nsoperationqueue""]",1
+"[""obj-c""]",1
+"[""objc""]",6
+"[""objective-c""]",170
+"[""objective-с""]",2
+"[""objectivec""]",4
+"[""odata""]",1
+"[""office""]",1
+"[""ois""]",1
+"[""okhttp""]",12
+"[""okhttp3""]",1
+"[""onesignal""]",2
+"[""oop""]",1
+"[""open source""]",7
+"[""openapi""]",2
+"[""opencv""]",1
+"[""opengl""]",5
+"[""opengl es""]",1
+"[""operationqueue""]",1
+"[""oracle""]",4
+"[""oracle pl/sql""]",1
+"[""orm""]",8
+"[""ormlite""]",2
+"[""os android""]",4
+"[""paging3""]",1
+"[""patterns""]",1
+"[""pencilkit""]",1
+"[""performance""]",2
+"[""php""]",27
+"[""pinlayout""]",1
+"[""pipelineowner""]",1
+"[""pods""]",1
+"[""postgresql""]",43
+"[""postman""]",4
+"[""pr-консультирование""]",1
+"[""precompose""]",1
+"[""promisekit""]",2
+"[""provider""]",5
+"[""provider as di""]",1
+"[""provider, flutter_bloc, go_router, dio, firebase, shared preferences""]",3
+"[""publish mobile app to app store""]",1
+"[""pwa""]",4
+"[""python""]",32
+"[""pytorch""]",1
+"[""qa""]",1
+"[""qa automation""]",2
+"[""qa engineer""]",1
+"[""qa engineer & analytics""]",1
+"[""qform 2d/3d""]",1
+"[""qmake""]",1
+"[""qml""]",16
+"[""qt""]",25
+"[""qt5""]",3
+"[""qtcreator""]",1
+"[""quarkus""]",1
+"[""quartz""]",1
+"[""quick""]",2
+"[""r&d""]",1
+"[""react""]",123
+"[""react hook form""]",1
+"[""react hooks""]",1
+"[""react js""]",1
+"[""react native""]",232
+"[""react native elements""]",1
+"[""react native gesture handler""]",1
+"[""react native navigation""]",1
+"[""react native reanimated""]",1
+"[""react navigation""]",3
+"[""react-native""]",7
+"[""react-navigation""]",1
+"[""react.js""]",9
+"[""react.native""]",2
+"[""react/redux""]",4
+"[""reactjs""]",11
+"[""reactnative""]",5
+"[""realitykit""]",2
+"[""realm""]",45
+"[""reanimated""]",2
+"[""recompose""]",1
+"[""redis""]",2
+"[""redmine""]",7
+"[""redux""]",57
+"[""redux-saga""]",1
+"[""redux/mobx""]",1
+"[""rendering""]",1
+"[""requests""]",1
+"[""reselect""]",1
+"[""rest""]",160
+"[""rest api""]",154
+"[""rest, json, xml, ssl""]",1
+"[""rest, xml-rpc""]",2
+"[""rest-api""]",1
+"[""rest/json""]",1
+"[""rest/rpc""]",1
+"[""restapi""]",2
+"[""restful""]",2
+"[""restful api""]",7
+"[""restful apls""]",1
+"[""restfull api""]",1
+"[""retrofit""]",118
+"[""retrofit + moshi""]",1
+"[""retrofit 2""]",8
+"[""retrofit2""]",4
+"[""revel""]",1
+"[""rider""]",1
+"[""riverpod""]",6
+"[""robolectric""]",1
+"[""room""]",41
+"[""room service""]",4
+"[""room views""]",1
+"[""rps""]",1
+"[""rtk""]",1
+"[""ruby""]",7
+"[""ruby on rails""]",3
+"[""rx""]",17
+"[""rx java""]",1
+"[""rx2java""]",2
+"[""rxandroid""]",1
+"[""rxcocoa""]",2
+"[""rxdart""]",4
+"[""rxjava""]",125
+"[""rxjava 2""]",7
+"[""rxjava/coroutines""]",1
+"[""rxjava2""]",14
+"[""rxjava3""]",2
+"[""rxjs""]",2
+"[""rxkotlin""]",2
+"[""rxswift""]",55
+"[""s.o.l.i.d""]",1
+"[""saas""]",2
+"[""sailfish os""]",7
+"[""sass""]",3
+"[""scala""]",1
+"[""scenekit""]",2
+"[""scicharts""]",2
+"[""scripting""]",1
+"[""scrum""]",51
+"[""scss""]",2
+"[""sdk""]",16
+"[""sdwebimage""]",2
+"[""senior""]",2
+"[""sensortower""]",2
+"[""sentry""]",1
+"[""server driven ui""]",1
+"[""service locator""]",2
+"[""services""]",1
+"[""signalr""]",1
+"[""single activity""]",3
+"[""sip""]",1
+"[""snapkit""]",10
+"[""snapshot testing""]",1
+"[""snapshot тесты""]",1
+"[""soa""]",1
+"[""soap""]",12
+"[""socket""]",1
+"[""soft skills""]",1
+"[""solid""]",174
+"[""solid edge""]",3
+"[""solidworks""]",1
+"[""spa""]",1
+"[""spi""]",2
+"[""spm""]",8
+"[""spring""]",1
+"[""spring boot""]",1
+"[""spring framework""]",13
+"[""sql""]",84
+"[""sql databases (postgresql)""]",1
+"[""sql-субд""]",2
+"[""sqlite""]",57
+"[""sqlite3""]",1
+"[""ssr""]",3
+"[""starscream""]",1
+"[""statefulwidget""]",1
+"[""statelesswidget""]",1
+"[""stl""]",4
+"[""storekit""]",6
+"[""storyboard""]",3
+"[""storyboard/xib""]",5
+"[""storyboards""]",1
+"[""stream""]",1
+"[""structured concurrency""]",1
+"[""supabase""]",1
+"[""svn""]",3
+"[""swagger""]",8
+"[""swift""]",704
+"[""swift 5""]",1
+"[""swift 5.1""]",5
+"[""swift alliance""]",10
+"[""swift concurrency""]",2
+"[""swift modern concurrencу""]",1
+"[""swift package manage""]",2
+"[""swift package manager""]",1
+"[""swift standard library""]",1
+"[""swift ui""]",11
+"[""swiftdata""]",1
+"[""swiftpm""]",2
+"[""swiftui""]",95
+"[""swinject""]",2
+"[""symfony""]",1
+"[""tcp""]",1
+"[""tcp/ip""]",12
+"[""tdd""]",3
+"[""tdd/ ci""]",1
+"[""team management""]",2
+"[""teamcity""]",4
+"[""teamleading""]",2
+"[""tensorflow""]",1
+"[""testfight""]",1
+"[""texture""]",1
+"[""tflite api""]",1
+"[""the elm architecture""]",1
+"[""timber""]",1
+"[""tuist""]",2
+"[""tvos""]",2
+"[""typeorm""]",1
+"[""typescript""]",139
+"[""ubuntu""]",1
+"[""udf""]",4
+"[""udp""]",1
+"[""ugui""]",1
+"[""ui""]",47
+"[""ui kit""]",3
+"[""ui test""]",1
+"[""ui-тесты""]",3
+"[""ui/ux""]",5
+"[""uikit""]",172
+"[""uml""]",1
+"[""unidirectional data flow""]",1
+"[""unirx""]",1
+"[""unit""]",1
+"[""unit testing""]",43
+"[""unit тесты""]",3
+"[""unit-test""]",1
+"[""unit-тестами""]",1
+"[""unit-тестирование""]",2
+"[""unit-тестировании""]",1
+"[""unit-тесты""]",3
+"[""unitask""]",1
+"[""unittests""]",1
+"[""unity""]",34
+"[""unity 3d""]",1
+"[""unity3d""]",1
+"[""urlsession""]",4
+"[""userdefaults""]",1
+"[""ux""]",12
+"[""ux / ui""]",2
+"[""version control system""]",2
+"[""view""]",1
+"[""viewbinding""]",2
+"[""viper""]",58
+"[""visualstudio""]",1
+"[""voip""]",3
+"[""vpn""]",1
+"[""vscode""]",1
+"[""vue""]",2
+"[""vue.js""]",10
+"[""vuejs""]",1
+"[""web""]",21
+"[""web - разработка""]",1
+"[""web application development""]",1
+"[""web socket""]",1
+"[""web sql""]",1
+"[""web-sockets""]",1
+"[""web3""]",3
+"[""webflow""]",1
+"[""webkit""]",2
+"[""webpack""]",8
+"[""webrtc""]",9
+"[""websocket""]",22
+"[""websockets""]",7
+"[""webview""]",6
+"[""wedding photography""]",1
+"[""window manager""]",2
+"[""windows 7""]",1
+"[""windows forms""]",1
+"[""workmanager""]",2
+"[""wpf""]",3
+"[""ws""]",2
+"[""ws/rest/rpc""]",2
+"[""xamarin""]",14
+"[""xcode""]",146
+"[""xctest""]",3
+"[""xib""]",5
+"[""xml""]",28
+"[""xсode""]",8
+"[""yagni""]",2
+"[""yandex map kit""]",1
+"[""yandex сервис""]",2
+"[""yii""]",1
+"[""youtrack""]",3
+"[""zeplin""]",2
+"[""zustand""]",1
+"[""аврора ос""]",2
+"[""адаптивная верстка""]",4
+"[""адаптивность""]",1
+"[""аккредитованная ит-компания""]",1
+"[""алгоритмы""]",1
+"[""алгоритмы и структуры данных""]",1
+"[""аналитическое мышление""]",13
+"[""английский""]",1
+"[""английский - в2""]",1
+"[""английский язык""]",126
+"[""английский язык - в2""]",2
+"[""английский — a2 — элементарный""]",1
+"[""английский — b2 — средне-продвинутый""]",1
+"[""английский — c1 — продвинутый""]",1
+"[""архитектура мобильных приложений""]",1
+"[""архитектурные паттерны""]",1
+"[""асинхронное программирование""]",1
+"[""база данных: oracle""]",7
+"[""базы данных""]",9
+"[""банковское по""]",2
+"[""бекенд""]",1
+"[""битрикс 24""]",2
+"[""битрикс24""]",1
+"[""блочная верстка""]",2
+"[""быстрое обучение""]",1
+"[""валидная верстка""]",4
+"[""вариативность в поиске решений задач""]",1
+"[""веб-дизайн""]",1
+"[""веб-программирование""]",3
+"[""верстка""]",3
+"[""верстка ui кодом и желательно в xib/storyboard""]",1
+"[""верстка интерфейсов""]",2
+"[""верстка на xml""]",1
+"[""внимательность, ответственность""]",2
+"[""высшее образование""]",1
+"[""гис""]",2
+"[""готовность к самостоятельной работе""]",2
+"[""грамотность""]",3
+"[""групповое обучение""]",1
+"[""деловая коммуникация""]",3
+"[""деловая переписка""]",1
+"[""деловое общение""]",1
+"[""дизайн интерфейсов""]",2
+"[""дизайн-система""]",2
+"[""дружелюбие""]",1
+"[""желание быть наставником""]",2
+"[""желание обучаться""]",3
+"[""желание работать и зарабатывать""]",1
+"[""желание работать и развиваться""]",3
+"[""желание расти и развиваться""]",1
+"[""желание учиться и развиваться""]",2
+"[""знание sqlite""]",1
+"[""знание английского языка""]",2
+"[""знание принципов material design""]",1
+"[""знание принципов solid""]",1
+"[""индивидуальное обучение""]",1
+"[""инициативность""]",2
+"[""исполнительность""]",1
+"[""кotlin сoroutines""]",1
+"[""клиент-серверная архитектура""]",1
+"[""код-ревью""]",1
+"[""коммуникабельность""]",5
+"[""корпоративная этика""]",1
+"[""креативность""]",2
+"[""криптовалюта""]",1
+"[""кроссплатформенная разработка""]",3
+"[""кроссплатформенность""]",2
+"[""лидерство""]",1
+"[""линейное программирование""]",1
+"[""логистика""]",4
+"[""логическое мышление""]",1
+"[""менеджеры раскладки.""]",1
+"[""менторство""]",1
+"[""микросервисная архитектура""]",1
+"[""многозадачность""]",1
+"[""многопоточное и сетевое программирование""]",1
+"[""многопоточность""]",6
+"[""мобильная видеосъемка""]",1
+"[""мобильная разработка""]",16
+"[""мобильное приложение""]",1
+"[""мобильное тестирование""]",3
+"[""мобильные приложение""]",1
+"[""мобильные приложения""]",43
+"[""мобильные сети""]",1
+"[""модульное тестирование""]",1
+"[""мультиплатформенное решение""]",1
+"[""навыки разрешения спорных ситуаций""]",1
+"[""написание тестов (quick, nimble)""]",1
+"[""наставничество""]",1
+"[""настройка ci/cd""]",1
+"[""настройка по""]",1
+"[""настройка сетевых подключений""]",1
+"[""не конфликтность, ответственность, аналитический склад ума""]",1
+"[""немецкий язык""]",12
+"[""образованность""]",1
+"[""обучаемость""]",1
+"[""обучение""]",1
+"[""обучение и развитие""]",19
+"[""обучение сотрудников""]",1
+"[""онлайн касса""]",2
+"[""ооп""]",307
+"[""ооп и структуры данных""]",1
+"[""опп""]",1
+"[""оптимизация кода""]",10
+"[""оптимизация приложений""]",2
+"[""опыт написания unit-тестов""]",1
+"[""опыт работы с android studio, gradle""]",1
+"[""опыт работы с git и gradle""]",1
+"[""опыт работы с livedata, retrofit, coururin, okhttp, hilt, room, sql""]",1
+"[""опыт работы с mvvm-паттерн""]",1
+"[""опыт работы с платформой ios""]",2
+"[""опыт работы с системами контроля версий git""]",1
+"[""опыт разработки ios-приложений в команде разработчиков от 5 лет""]",1
+"[""опыт разработки под ios будет преимуществом""]",1
+"[""опытный пользователь пк, знание ms office""]",1
+"[""организаторские навыки""]",4
+"[""организационная осведомленность""]",1
+"[""организация учебного процесса""]",1
+"[""ответственное отношение к работе""]",1
+"[""ответственность""]",4
+"[""офис""]",2
+"[""оценка задач""]",1
+"[""паттерны""]",3
+"[""паттерны проектирования""]",5
+"[""планирование карьеры""]",1
+"[""понимание принципов di и протоколо-ориентированного программирования""]",1
+"[""понимание принципов работы мобильного приложения""]",1
+"[""построение алгоритмов""]",1
+"[""преподавание""]",1
+"[""приложения""]",3
+"[""пример реализованного приложения""]",1
+"[""программирование""]",2
+"[""программист""]",6
+"[""программист мобильных приложений""]",1
+"[""программная верстка""]",1
+"[""программный код""]",1
+"[""пунктуальность""]",1
+"[""работа в графических редакторах""]",1
+"[""работа в команде""]",39
+"[""работа в условиях многозадачности""]",4
+"[""работа с базами данных""]",4
+"[""работа с банками""]",2
+"[""работа с большим объемом информации""]",1
+"[""работа с командой""]",2
+"[""работа с макетами""]",1
+"[""работать в команде""]",1
+"[""разговорный английский""]",1
+"[""разрабатывать приложения""]",1
+"[""разработка""]",7
+"[""разработка cms""]",1
+"[""разработка ios""]",3
+"[""разработка ui""]",1
+"[""разработка web-приложений""]",1
+"[""разработка компьютерных игр""]",3
+"[""разработка логистики""]",13
+"[""разработка мобильных приложений""]",10
+"[""разработка мобильных приложений ios/android""]",3
+"[""разработка мобильных приложений под android""]",1
+"[""разработка нового продукта""]",8
+"[""разработка по""]",48
+"[""разработка под android""]",3
+"[""разработка под ios""]",1
+"[""разработка приложений""]",3
+"[""разработка технических заданий""]",1
+"[""разработчик""]",2
+"[""разработчик мобильных приложений""]",1
+"[""распространенные шаблоны проектирования""]",1
+"[""рефакторинг кода""]",4
+"[""робототехника""]",1
+"[""ручное тестирование""]",1
+"[""с#""]",6
+"[""с++""]",2
+"[""с/с++/objective-c/swift""]",2
+"[""сicerone""]",7
+"[""сoroutines""]",12
+"[""сustomview""]",1
+"[""сапр""]",1
+"[""сборка приложения""]",1
+"[""сетевые протоколы""]",1
+"[""системная разработка""]",1
+"[""системное мышление""]",1
+"[""сложные анимации и ux сюжеты""]",1
+"[""соблюдение сроков""]",1
+"[""средний middle""]",1
+"[""стремление к профессиональному росту""]",2
+"[""субд""]",3
+"[""субд ms sql server""]",1
+"[""тайм-менеджмент""]",5
+"[""телематика""]",2
+"[""тестирование""]",2
+"[""тестирование android""]",3
+"[""тестирование android-приложений""]",2
+"[""тестирование ios-приложений""]",3
+"[""торговая площадка""]",11
+"[""точность и внимательность к деталям""]",1
+"[""удаленная работа""]",19
+"[""улаживание конфликтов""]",1
+"[""умение адаптироваться""]",3
+"[""умение и желание быстро обучаться""]",1
+"[""умение находить общий язык""]",1
+"[""умение писать программы""]",1
+"[""умение писать чистый, модульный и легко поддерживаемый код.""]",1
+"[""умение принимать решения""]",1
+"[""умение работать в коллективе""]",2
+"[""умение работать в команде""]",5
+"[""умение читать чужой код""]",1
+"[""управление временем""]",2
+"[""управление командой""]",10
+"[""управление проектами""]",9
+"[""управление разработкой""]",1
+"[""фитнес""]",1
+"[""фронтенд""]",1
+"[""функциональное программирование""]",1
+"[""широкий кругозор""]",1
+"[""эффективное принятие решений""]",1
+"[""язык программирования java""]",1
+"[""яндекс.метрика""]",1

@@ -1,0 +1,20 @@
+mapreduce_1
+{"source": "s3://hh-lake/it_vacancies_2024.csv", "rows": 229388, "selected": 3713, "with_skills": 2743, "max_skills": 28, "retries": 0, "unique": [1007, 11950, 59871], "occurrences": [14904, 46696, 123452]}
+
+duckdb_1
+{"source": "s3://hh-lake/it_vacancies_2024.csv", "rows": 229388, "selected": 3713, "with_skills": 2743, "max_skills": 28, "unique": [1007, 11950, 59871], "occurrences": [14904, 46696, 123452], "duplicate_ids": 0}
+
+mapreduce_2
+{"source": "s3://hh-lake/it_vacancies_2024.csv", "rows": 229388, "selected": 3713, "with_skills": 2743, "max_skills": 28, "retries": 0, "unique": [1007, 11950, 59871], "occurrences": [14904, 46696, 123452]}
+
+duckdb_2
+{"source": "s3://hh-lake/it_vacancies_2024.csv", "rows": 229388, "selected": 3713, "with_skills": 2743, "max_skills": 28, "unique": [1007, 11950, 59871], "occurrences": [14904, 46696, 123452], "duplicate_ids": 0}
+
+mapreduce_3
+{"source": "s3://hh-lake/it_vacancies_2024.csv", "rows": 229388, "selected": 3713, "with_skills": 2743, "max_skills": 28, "retries": 0, "unique": [1007, 11950, 59871], "occurrences": [14904, 46696, 123452]}
+
+duckdb_3
+{"source": "s3://hh-lake/it_vacancies_2024.csv", "rows": 229388, "selected": 3713, "with_skills": 2743, "max_skills": 28, "unique": [1007, 11950, 59871], "occurrences": [14904, 46696, 123452], "duplicate_ids": 0}
+
+failure
+{"source": "s3://hh-lake/it_vacancies_2024.csv", "rows": 229388, "selected": 3713, "with_skills": 2743, "max_skills": 28, "retries": 1, "unique": [1007, 11950, 59871], "occurrences": [14904, 46696, 123452]}

@@ -1,0 +1,58 @@
+{
+  "full_count_tables_equal": true,
+  "runs": [
+    [
+      {
+        "k": 1,
+        "keys": 1007,
+        "mismatches": 0
+      },
+      {
+        "k": 2,
+        "keys": 11950,
+        "mismatches": 0
+      },
+      {
+        "k": 3,
+        "keys": 59871,
+        "mismatches": 0
+      }
+    ],
+    [
+      {
+        "k": 1,
+        "keys": 1007,
+        "mismatches": 0
+      },
+      {
+        "k": 2,
+        "keys": 11950,
+        "mismatches": 0
+      },
+      {
+        "k": 3,
+        "keys": 59871,
+        "mismatches": 0
+      }
+    ],
+    [
+      {
+        "k": 1,
+        "keys": 1007,
+        "mismatches": 0
+      },
+      {
+        "k": 2,
+        "keys": 11950,
+        "mismatches": 0
+      },
+      {
+        "k": 3,
+        "keys": 59871,
+        "mismatches": 0
+      }
+    ]
+  ],
+  "mapper_exception_recovery": true,
+  "failure_scope": "task exception; not a killed process or broken process pool"
+}
